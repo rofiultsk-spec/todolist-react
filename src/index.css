@@ -1,0 +1,15 @@
+body {
+  background: #ede0d4;
+}
+
+.card {
+  background: #faf3e0;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 4px 12px rgba(92, 64, 51, 0.2);
+}
+
+.badge {
+  padding: 8px 12px;
+  border-radius: 20px;
+}
