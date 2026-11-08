@@ -1,16 +1,52 @@
-# React + Vite
+# TodoList React CRUD
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Aplikasi TodoList CRUD yang dibuat menggunakan React JS 19 dan Bootstrap.
 
-Currently, two official plugins are available:
+## Fitur
+- Create Task
+- Read Task
+- Update Task
+- Delete Task
+- Priority Badge (High, Medium, Low)
+- Status Task (To Do, In Progress, Done)
+- Responsive Design dengan Bootstrap
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Teknologi yang Digunakan
+- React JS 19
+- Bootstrap 5
+- Vite
 
-## React Compiler
+## Cara Menjalankan Project
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+1. Clone repository
 
-## Expanding the ESLint configuration
+```bash
+git clone https://github.com/username/react-todolist-crud.git
+```
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+2. Masuk ke folder project
+
+```bash
+cd react-todolist-crud
+```
+
+3. Install dependency
+
+```bash
+npm install
+```
+
+4. Jalankan aplikasi
+
+```bash
+npm run dev
+```
+
+## Screenshot
+
+![Screenshot Aplikasi](images/todolist.png)
+
+## Author
+
+Nama: Rofiul Haq
+NIM: 2511501054
